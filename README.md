@@ -7,6 +7,6 @@
 ###
 
 **Gameplay Demo:**
-![video](https://github.com/user-attachments/assets/e9f1c852-da7f-4bd8-b6df-c8ffc3f9a04c)
+https://github.com/user-attachments/assets/e9f1c852-da7f-4bd8-b6df-c8ffc3f9a04c
 
 ![image](https://github.com/user-attachments/assets/c2880c5c-e584-4045-a8cd-5addb12159fd)

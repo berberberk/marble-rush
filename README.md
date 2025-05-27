@@ -2,7 +2,7 @@
 
 ###
 
-*Enjoy the endless adventure to find the meaning of life after a turn after turn after turn after turn...*
+*Enjoy the endless adventure to find the meaning of life after a turn after a turn after a turn after a turn...*
 
 ###
 
